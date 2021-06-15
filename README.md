@@ -5,7 +5,8 @@ https://linus-peng1.github.io/AC_practice_Movie_List/
 
 ## Features
 - list the movies from the api
-- searching movies by the keyword
+- searching movies by the title
+  - type the keyword in search bar, and it will list the related movies
 - clisk the "more" button on the movie, and see the introduction
   - the window will show the movie's release-date and see the synopsis 
 - add or remove the movies from the favorite list
